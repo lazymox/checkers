@@ -10,3 +10,6 @@ Simply run the main file
 ```bash
 python main.py
 ```
+Now you can have fun playing against yourself
+
+![Uploading Снимок экрана 2023-12-15 в 21.40.42.png…]()
